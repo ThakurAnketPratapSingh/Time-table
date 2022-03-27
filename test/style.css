@@ -1,0 +1,22 @@
+.table{
+    height: 100px;
+    width: 100px;
+    padding: 5px;
+    border:10px solid red;
+    background-color: aquamarine;
+    
+    margin: auto;
+
+
+}
+thead, tbody, th, tr, td{
+    border: 1px solid black;
+    text-align: center;
+}
+thead{
+    background-color: aqua;
+    color: blue;
+}
+caption{
+    color: brown;
+}
